@@ -6,7 +6,7 @@ Repositório para o desafio de machine learning da DIO
 - Primeiro precisei acessar o portal da Azure, criei uma conta com créditos gratuitos por 30 dias usando o free-trial disponibilizado para novas pessoas na plataforma.
 - Após todas as configurações iniciais seguindo o passo a passo do vídeo, acessei o Machine Learn Studio, para criar o meu trabalho de aprendizado de máquina automatizado.
 - A documentação oficial, passa para nós um problema referente ao aluguel de bicicletas.
-- Após configurar o ambiente, definimos a tarefa como regressão e os dados advindo de uma fonte (WEB)[https://aka.ms/bike-rentals]
+- Após configurar o ambiente, definimos a tarefa como regressão e os dados advindo de uma fonte [WEB] (https://aka.ms/bike-rentals)
 - Continuei realizando algumas configurações conforme a documentação para realizar a tarefa de maneira eficaz e satisfatória.
 - Após finalizar o envio do trabalho, ele vai passar pelo proxesso de configuração das execuções e após 15 minutos (aproximadamente), estará concluído.
 
@@ -16,7 +16,7 @@ Repositório para o desafio de machine learning da DIO
 - Em seguida, acessei a aba "Testar".
 
 Para o teste, segue o json abaixo:
-'''json
+```json
 {
   "input_data": {
     "data": [
@@ -37,11 +37,11 @@ Para o teste, segue o json abaixo:
      ]
   }
 }
-'''
+```
 
 O resultado devolvido pelo modelo foi o seguinte:
-'''json
+```json
 [
   361.95238671338427
 ]
-'''
+```
